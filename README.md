@@ -1,2 +1,3 @@
-# nandi
-repositori untuk menyimpan rencana fullstuck dev 
+nandi
+saya sedang belajar github
+dan saya berencana menjadi 
