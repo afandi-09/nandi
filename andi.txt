@@ -9,6 +9,7 @@ h1
 size:20px;
 }
 </style>
+<script> document.getElementById=("yoyBro").innerHTML;</script>
 <body>
 
 <h1>new repo</h1>
@@ -16,8 +17,8 @@ size:20px;
 <nav>
 <ul>
 <li>
-<a href="#">hey click me</a>
-<a href="#">contact me</a>
+<a href="#" id="yoyBro">hey click me</a>
+<a href="#" id="yoyBro">contact me</a>
 </li></ul></nav>
 </div>
 </body>
